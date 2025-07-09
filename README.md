@@ -1,3 +1,4 @@
 # DVSA-Privacy-Policy
 
-[DVSA-Test-privacy-policy.pdf](https://github.com/user-attachments/files/19675405/DVSA-Test-privacy-policy.pdf)
+[Privacy Policy for DVSA Test.pdf](https://github.com/user-attachments/files/21150635/Privacy.Policy.for.DVSA.Test.pdf)
+[Terms and Conditions - DVSA.pdf](https://github.com/user-attachments/files/21150637/Terms.and.Conditions.-.DVSA.pdf)
