@@ -1,11 +1,10 @@
-# Driving-Prep-UK-Privacy-Policy
+# Driving-Prep-UK-Privacy-Policy & Terms and Conditions
 
 [Terms and Conditions - Driving Prep UK.pdf](https://github.com/user-attachments/files/22217398/Terms.and.Conditions.-.Driving.Prep.UK.pdf)
 
-[Privacy Policy for Driving Prep UK.pdf](https://github.com/user-attachments/files/22217401/Privacy.Policy.for.Driving.Prep.UK.pdf)
+[Privacy Policy for Driving Prep UK.pdf](https://github.com/user-attachments/files/22217478/Privacy.Policy.for.Driving.Prep.UK.pdf)
 
-
-# Driving Prep UK App - Privacy Policy & Terms and Conditions
+# Driving Prep UK App - Privacy Policy
 
 **Last updated: July 9, 2025**
 
