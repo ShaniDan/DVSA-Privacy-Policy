@@ -1,12 +1,11 @@
-# DVSA-Privacy-Policy
+# Driving-Prep-UK-Privacy-Policy
 
-[Privacy Policy for DVSA Test (1).pdf](https://github.com/user-attachments/files/21167341/Privacy.Policy.for.DVSA.Test.1.pdf)
+[Terms and Conditions - Driving Prep UK.pdf](https://github.com/user-attachments/files/22217398/Terms.and.Conditions.-.Driving.Prep.UK.pdf)
 
-[Terms and Conditions - DVSA.pdf](https://github.com/user-attachments/files/21150637/Terms.and.Conditions.-.DVSA.pdf)
+[Privacy Policy for Driving Prep UK.pdf](https://github.com/user-attachments/files/22217401/Privacy.Policy.for.Driving.Prep.UK.pdf)
 
 
-[# Privacy-Policy
-# DVSA Test App - Privacy Policy & Terms and Conditions
+# Driving Prep UK App - Privacy Policy & Terms and Conditions
 
 **Last updated: July 9, 2025**
 
@@ -22,7 +21,7 @@ Capitalized words have specific meanings defined below, regardless of singular o
 
 ### 1.2 Definitions
 
-* **Application**: The DVSA Test software program.
+* **Application**: The Driving Prep UK software program.
 * **Application Store**: Digital store by Apple Inc. (App Store).
 * **Affiliate**: An entity that controls, is controlled by, or shares control with another party.
 * **Account**: A user-created account to access the Service.
@@ -169,7 +168,7 @@ Email: [shakhnoza.mirabzalova1@gmail.com](mailto:shakhnoza.mirabzalova1@gmail.co
 
 ⸻
 
-# 🇷🇺 Условия и положения DVSA Test App
+# 🇷🇺 Условия и положения Driving Prep UK  App
 
 **Дата обновления: 9 июля 2025 г.**
 
@@ -310,11 +309,11 @@ Email: [shakhnoza.mirabzalova1@gmail.com](mailto:shakhnoza.mirabzalova1@gmail.co
 
 Электронная почта: shakhnoza.mirabzalova1@gmail.com
 
-Ось переклад документа «DVSA Test App – Політика конфіденційності та Умови використання» українською мовою у структурованому форматі:
+Ось переклад документа «Driving Prep UK  App – Політика конфіденційності та Умови використання» українською мовою у структурованому форматі:
 
 ⸻
 
-DVSA Test App – Політика конфіденційності та Умови використання
+Driving Prep UK  App – Політика конфіденційності та Умови використання
 
 Останнє оновлення: 9 липня 2025 р.
 
@@ -329,7 +328,7 @@ DVSA Test App – Політика конфіденційності та Умо�
 Слова, що починаються з великої літери, мають спеціальне значення, визначене нижче, незалежно від форми (однина/множина).
 
 1.2 Визначення
-	•	Додаток: програмне забезпечення DVSA Test.
+	•	Додаток: програмне забезпечення Driving Prep UK .
 	•	Магазин додатків: цифровий магазин Apple Inc. (App Store).
 	•	Афілійована особа: організація, яка контролює, контролюється або має спільний контроль з іншою стороною.
 	•	Обліковий запис: створений користувачем акаунт для доступу до Сервісу.
